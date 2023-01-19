@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alyona</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=1000&color=509BFF&center=true&vCenter=true&width=700&lines=A+passionate+frontend+developer+from+Russia" alt="Typing SVG" /></a></h3>
-
+<h3 align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=1000&color=509BFF&center=true&vCenter=true&width=700&lines=A+passionate+frontend+developer+from+Russia+)](https://git.io/typing-svg)
+  
+</h3>
 
 - 🔭 I’m currently working on [Innopolis Open](https://olymp.innopolis.university/?ysclid=ld2rgrqg7j102537805#rec229597387)
 
