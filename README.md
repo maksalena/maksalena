@@ -21,3 +21,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksalena&layout=compact)](https://github.com/maksalena/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maksalena&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maksalena&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maksalena&theme=github)
