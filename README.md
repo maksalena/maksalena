@@ -5,7 +5,7 @@
   
 </h3>
 
-- 🔭 I’m currently working on [TourManager]()
+- 🔭 I’m currently working on TourManager
 
 - 🌱 I’m currently learning **Networking**
 
