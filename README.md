@@ -5,7 +5,7 @@
   
 </h3>
 
-- 🔭 I’m currently working on [PetConnect](https://pet-connect.ru)
+- 🔭 I’m currently working on [TourManager]()
 
 - 🌱 I’m currently learning **Networking**
 
