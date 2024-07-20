@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **TourManager**
 
-- 🌱 I’m currently learning in **Innopolis University**
+- 🌱 I’m currently learning in **Innopolis University** 
 
 - 💬 Ask me about **App development**
 
