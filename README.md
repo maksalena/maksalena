@@ -5,7 +5,7 @@
   
 </h3>
 
-- 🔭 I’m currently working on **TourManager**
+- 🔭 I’m currently working in **ГУП Мосгортранс**
 
 - 🌱 I’m currently learning in **Innopolis University**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **maksalena04@mail.ru**
 
-- 📄 My [cv](https://drive.google.com/file/d/1r7KKdyTEJzQgpl-oHkuEN2OFZ7tIJ4tB/view?usp=sharing)
+- 📄 My [cv](https://drive.google.com/file/d/19I_-rELUsBJJJrsR5dMIYqzQ8oDxDx7J/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
