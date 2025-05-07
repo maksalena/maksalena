@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **maksalena04@mail.ru**
 
-- 📄 My [cv](https://drive.google.com/file/d/19I_-rELUsBJJJrsR5dMIYqzQ8oDxDx7J/view?usp=sharing)
+- 📄 My [cv](https://drive.google.com/file/d/15tjp5Kq08irWoDON2kfw4f_WGqJFkQR0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
